@@ -3,7 +3,7 @@
 # 2. config.build.yml
 # 3. config.yml
 
-name: icosahedron
+name: Icosahedron
 description: General project testing
 author:
   name: Alberto Barradas
